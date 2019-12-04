@@ -25,4 +25,5 @@ public class Cow {
     public void setImage(String _image) {
         this.image = _image;
     }
+    //hello
 }
